@@ -3,7 +3,6 @@
 
 import sys
 
-#in readme, say pip install numpy
 import numpy
 import math
 
