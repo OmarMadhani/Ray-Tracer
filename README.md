@@ -27,6 +27,6 @@ I also have placed .ppm renderings of a few test cases in the repository. Howeve
 
 You will know when RayTracer.py has created the .ppm file when it prints the output file name in the terminal. The time to run the program on a given file may vary depending on the conditions of your device.
 
-ADS and shadows have been implemented, but reflections have yet to be implemented
+ADS and shadows have been implemented, but reflections still have to be completed.
 
 Thank you! 
