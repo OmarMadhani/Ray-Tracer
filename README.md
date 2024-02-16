@@ -1,6 +1,6 @@
 # Ray-Tracer
 
-Name: Omar Madhani (CSC 305)
+Name: Omar Madhani (Computer Science 305)
 
 12/2/2023
 
