@@ -1,5 +1,4 @@
 # Name: Omar Madhani
-# V-Number: V00978484
 
 import sys
 
